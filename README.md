@@ -57,18 +57,6 @@ I combine a background in banking with hands-on ML and data analyst skills.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Ruben's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RubenMC-44&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RubenMC-44&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 *Open to Data Analyst · Financial Risk Analyst · Market Surveillance roles in Amsterdam*  
