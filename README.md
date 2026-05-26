@@ -70,30 +70,32 @@ Financial asset analysis — returns, volatility, drawdown, Sharpe ratio. AI-pow
  
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RubenMC-44/stock_analyzer)
  
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+## 🚀 Featured Projects
+ 
+### 📊 [Credit Risk Dashboard](https://github.com/RubenMC-44/Credit-Risk-Drashboard)
+Credit risk scoring dashboard — ML model trained on 150K clients to predict loan default probability.
+ 
+`Python` · `SQL` · `Streamlit` · `Logistic Regression` · `Class Imbalance`
+ 
+### 📈 [Stock Analyzer](https://github.com/RubenMC-44/stock_analyzer)
+Financial asset analysis — total return, annualized volatility, max drawdown & Sharpe ratio.
+ 
+`Python` · `yfinance` · `VaR` · `Sharpe Ratio` · `Drawdown`
+ 
 ### 🔍 Financial Fraud Detection *(in progress)*
 Anomaly detection on credit card transactions using unsupervised and supervised ML.
  
-**Stack:** Python · Isolation Forest · Random Forest · Imbalanced-learn
+`Python` · `Isolation Forest` · `Random Forest` · `Imbalanced-learn`
  
-</td>
-<td width="50%" valign="top">
 ### 📉 Market Risk Analyzer *(in progress)*
 Portfolio risk metrics dashboard with real-time data feeds.
  
-**Stack:** Python · yfinance · VaR · Monte Carlo · Streamlit
+`Python` · `yfinance` · `VaR` · `Monte Carlo` · `Streamlit`
  
-</td>
-</tr>
-</table>
 ---
  
-<div align="center">
-**Open to roles in** `Data Analytics` · `Financial Risk` · `Market Surveillance` · **Amsterdam**
+*Open to roles in Data Analytics · Financial Risk · Market Surveillance — Amsterdam*
  
 📧 ruben.bonete@gmail.com
  
-</div>
+
