@@ -17,7 +17,7 @@ ruben = {
     "background": ["Economics (Econometrics)", "Financial Management MSc", "Fintech"],
     "building"  : ["Credit Risk models", "Fraud detection systems", "Market risk tools"],
     "languages" : ["Spanish 🇪🇸", "English 🇬🇧", "Italian 🇮🇹", "Dutch (learning) 🇳🇱"],
-    "fun_fact"  : "Hybrid athlete — deadlifts 120kg, then goes for a run"
+    "fun_fact"  : "Hybrid athlete: strength + running when not writing code""
 }
 ```
  
