@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/RubenMC-44/RubenMC-44/master/banner.svg" alt="Ruben Morcillo Calero" width="100%"/>
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/rub%C3%A9n-morcillo-calero/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/rub%C3%A9n-morcillo-calero])
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruben.bonete@gmail.com)
 [![GitHub](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RubenMC-44?tab=repositories)
 
