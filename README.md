@@ -50,17 +50,6 @@ ruben = {
 ---
  
 ## 🚀 Featured Projects
- 
-<table>
-<tr>
-<td width="50%" valign="top">
-### 📊 Credit Risk Dashboard
-Predicting loan default probability on the *Give Me Some Credit* dataset. Interactive Streamlit app with SQL backend.
- 
-**Stack:** Python · SQLite/MySQL · Streamlit · Logistic Regression
- 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RubenMC-44/Credit-Risk-Drashboard)
- 
 </td>
 <td width="50%" valign="top">
 ### 📈 Stock Analyzer
