@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RubenMC-44/RubenMC-44/main/banner.svg" alt="Ruben Morcillo Calero" width="100%"/>
+  <img src="https://raw.githubusercontent.com/RubenMC-44/RubenMC-44/master/banner.svg" alt="Ruben Morcillo Calero" width="100%"/>
 </div>
 <br/>
 <div align="center">
