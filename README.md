@@ -82,8 +82,8 @@ Portfolio risk metrics dashboard with real-time data feeds.
 `Python` · `yfinance` · `VaR` · `Monte Carlo` · `Streamlit`
  
 ---
- 
-*Open to roles in Data Analytics · Financial Risk · Market Surveillance — Amsterdam*
+
+*Amsterdam*
  
 📧 ruben.bonete@gmail.com
  
